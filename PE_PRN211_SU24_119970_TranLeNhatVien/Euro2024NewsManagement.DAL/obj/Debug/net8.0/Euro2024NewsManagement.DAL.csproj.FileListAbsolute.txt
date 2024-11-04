@@ -1,0 +1,14 @@
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\bin\Debug\net8.0\Euro2024NewsManagement.DAL.deps.json
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\bin\Debug\net8.0\Euro2024NewsManagement.DAL.runtimeconfig.json
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\bin\Debug\net8.0\Euro2024NewsManagement.DAL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\bin\Debug\net8.0\Euro2024NewsManagement.DAL.pdb
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.csproj.AssemblyReference.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.AssemblyInfoInputs.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.AssemblyInfo.cs
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\refint\Euro2024NewsManagement.DAL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.pdb
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\Euro2024NewsManagement.DAL.genruntimeconfig.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.DAL\obj\Debug\net8.0\ref\Euro2024NewsManagement.DAL.dll

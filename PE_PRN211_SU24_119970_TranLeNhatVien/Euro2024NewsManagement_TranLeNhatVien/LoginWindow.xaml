@@ -1,0 +1,17 @@
+﻿<Window x:Class="Euro2024NewsManagement_TranLeNhatVien.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Euro2024NewsManagement_TranLeNhatVien"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="300" Width="600" WindowStartupLocation="CenterScreen" Background="#FFFACD" FontFamily="Times New Roman" FontSize="12pt"  ResizeMode="NoResize" >
+    <Grid >
+        <Label Content="Username:" HorizontalAlignment="Left" Margin="84,114,0,0" VerticalAlignment="Top" Style="{StaticResource LoginLabel}" RenderTransformOrigin="0.533,0.582"/>
+        <TextBox x:Name="UsernameText" HorizontalAlignment="Center" Height="18" Margin="0,119,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="250" Style="{StaticResource LoginTextBox}"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Height="25" Margin="84,163,0,0" VerticalAlignment="Top" Width="72" Style="{StaticResource LoginLabel}"/>
+        <TextBox x:Name="PasswordText" HorizontalAlignment="Center" Margin="0,165,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="250" Style="{StaticResource LoginTextBox}"/>
+        <Button Content="Login" HorizontalAlignment="Left" Height="26" Margin="163,216,0,0" VerticalAlignment="Top" Width="262" Click="Button_Click"/>
+
+    </Grid>
+</Window>

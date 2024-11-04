@@ -1,0 +1,17 @@
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\bin\Debug\net8.0\Euro2024NewsManagement.BLL.deps.json
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\bin\Debug\net8.0\Euro2024NewsManagement.BLL.runtimeconfig.json
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\bin\Debug\net8.0\Euro2024NewsManagement.BLL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\bin\Debug\net8.0\Euro2024NewsManagement.BLL.pdb
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\bin\Debug\net8.0\Euro2024NewsManagement.DAL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\bin\Debug\net8.0\Euro2024NewsManagement.DAL.pdb
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.csproj.AssemblyReference.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.AssemblyInfoInputs.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.AssemblyInfo.cs
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024.2F7951D4.Up2Date
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\refint\Euro2024NewsManagement.BLL.dll
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.pdb
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\Euro2024NewsManagement.BLL.genruntimeconfig.cache
+D:\FPT\PRN212\PE_PRN211_SU24_119970_TranLeNhatVien\Euro2024NewsManagement.BLL\obj\Debug\net8.0\ref\Euro2024NewsManagement.BLL.dll

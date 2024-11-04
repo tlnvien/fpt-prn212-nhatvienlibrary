@@ -1,0 +1,17 @@
+﻿<Application x:Class="Euro2024NewsManagement_TranLeNhatVien.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Euro2024NewsManagement_TranLeNhatVien"
+             StartupUri="LoginWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="LoginLabel" TargetType="Label">
+            <Setter Property="FontFamily" Value="Arial Narrow"/>
+            <Setter Property="FontSize" Value="12pt"/>
+            <Setter Property="Foreground" Value="#0000FF"/>
+        </Style>
+
+        <Style x:Key="LoginTextBox" TargetType="TextBox">
+            <Setter Property="TextAlignment" Value="Right"/>
+        </Style>
+    </Application.Resources>
+</Application>

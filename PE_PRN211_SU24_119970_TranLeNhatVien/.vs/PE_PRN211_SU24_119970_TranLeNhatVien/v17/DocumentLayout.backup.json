@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement.dal\\entities\\euro2024newsmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|solutionrelative:euro2024newsmanagement.dal\\entities\\euro2024newsmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement.dal\\entities\\newstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|solutionrelative:euro2024newsmanagement.dal\\entities\\newstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement.dal\\entities\\organizationaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|solutionrelative:euro2024newsmanagement.dal\\entities\\organizationaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement.dal\\entities\\footballnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|solutionrelative:euro2024newsmanagement.dal\\entities\\footballnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD62BD8-178A-43C4-95A1-C7781D7EC14E}|Euro2024NewsManagement.DAL\\Euro2024NewsManagement.DAL.csproj|solutionrelative:euro2024newsmanagement.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493C05EC-12D8-4907-B177-913042413473}|Euro2024NewsManagement.BLL\\Euro2024NewsManagement.BLL.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493C05EC-12D8-4907-B177-913042413473}|Euro2024NewsManagement.BLL\\Euro2024NewsManagement.BLL.csproj|solutionrelative:euro2024newsmanagement.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|d:\\fpt\\prn212\\pe_prn211_su24_119970_tranlenhatvien\\euro2024newsmanagement_tranlenhatvien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612B0DA-4271-4436-BBC8-2BCA3BFAF16A}|Euro2024NewsManagement_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien.csproj|solutionrelative:euro2024newsmanagement_tranlenhatvien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 452,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganizationAccount.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\OrganizationAccount.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement.DAL\\Entities\\OrganizationAccount.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\OrganizationAccount.cs",
+              "RelativeToolTip": "Euro2024NewsManagement.DAL\\Entities\\OrganizationAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsType.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\NewsType.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement.DAL\\Entities\\NewsType.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\NewsType.cs",
+              "RelativeToolTip": "Euro2024NewsManagement.DAL\\Entities\\NewsType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:36.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootballNews.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\FootballNews.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement.DAL\\Entities\\FootballNews.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\FootballNews.cs",
+              "RelativeToolTip": "Euro2024NewsManagement.DAL\\Entities\\FootballNews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Euro2024NewsManagementDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\Euro2024NewsManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement.DAL\\Entities\\Euro2024NewsManagementDbContext.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Entities\\Euro2024NewsManagementDbContext.cs",
+              "RelativeToolTip": "Euro2024NewsManagement.DAL\\Entities\\Euro2024NewsManagementDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:35:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T07:27:35.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\App.xaml",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\App.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\App.xaml",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T07:17:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\AssemblyInfo.cs",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:17:22.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\appsettings.json",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\appsettings.json",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\appsettings.json",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T07:13:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement.BLL\\Class1.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.BLL\\Class1.cs",
+              "RelativeToolTip": "Euro2024NewsManagement.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:03:56.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement.DAL\\Class1.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement.DAL\\Class1.cs",
+              "RelativeToolTip": "Euro2024NewsManagement.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:03:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\App.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\App.xaml.cs",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:17:39.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T07:02:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\PE_PRN211_SU24_119970_TranLeNhatVien\\Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Euro2024NewsManagement_TranLeNhatVien\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:02:42.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
